@@ -9,7 +9,7 @@ public class timd{
        int d1;
        int d2;
        int re;
-       Scanner s=new Scanner(System.in);
+       Scanner s=new Scanner(System.in);    
        h1=s.nextInt();
        h2=s.nextInt();
        m1=s.nextInt();
