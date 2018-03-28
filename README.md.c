@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<string.h>
 int main(void) 
-{
+{   
 	char str[50];
 	int i,len;
 	scanf("%[^\n]s",str);
